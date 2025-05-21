@@ -24,3 +24,8 @@ git add --all or git add -A # If you want git to delete local files from your re
 2. **Type `:q!`** – This quits **without saving**.
 3. **Press `Enter`** – This discards the commit message and exits Vim.
 
+# Rename your local master branch to main
+git branch -M main
+
+# Push to the main branch on GitHub
+git push -u origin main

@@ -10,7 +10,6 @@ Home/away status: Home teams have historical advantages in close games
 Team strength metrics: Season win percentage or team ratings (if available)
 
 
-
 Practical Implementation Considerations
 For a Class Project:
 I recommend a straightforward approach with regular intervals every minute plus quarter boundaries:
