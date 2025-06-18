@@ -11,7 +11,12 @@ git pull origin main
 git add .         # Stage all changes
 git commit -m "Your commit message"  # Commit staged changes with a message
 git push origin main  # Push changes to GitHub (replace 'main' with your branch name if different)
+git branch            # Checks the name of your branch
 git add --all or git add -A # If you want git to delete local files from your repo that you've deleted
+
+
+
+
 ```
 
 ## Steps to Exit Vim and Save Your Commit
