@@ -1,17 +1,3 @@
-I'll read the model.ipynb file to understand the project and write a brief README based on the narration.
-
-Read file: src/models/model.ipynb
-Let me continue reading to get more details about the project:
-
-Read file: src/models/model.ipynb
-Let me continue reading to get the model results and conclusions:
-
-Read file: src/models/model.ipynb
-Let me read the final sections to get the conclusions:
-
-Read file: src/models/model.ipynb
-Now I have a comprehensive understanding of the project. Let me write a brief README based on the narration in the notebook:
-
 # NBA Game Outcome Prediction: A Machine Learning Approach Based on Real-Time Score Differentials
 
 ## Overview
